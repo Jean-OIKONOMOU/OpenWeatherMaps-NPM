@@ -11,7 +11,7 @@ jadm brussels
 ```
 
 # WHO IS POPPY, AND WHY SHOULD I CARE ?
-I was just fooling around with the code. I wanted to see how you could protect the access to the package with a username / password.
+I was just fooling around with the code. I wanted to see how you could protect the access to the package with a username / password. Just write **poppy** for the username, and **poppy** for the password.
 
 # CREDITS
 Me, myself, and I.
