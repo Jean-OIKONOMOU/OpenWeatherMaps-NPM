@@ -10,6 +10,9 @@ For example:
 jadm brussels
 ```
 
+# KNOWN ISSUES ! ! !
+I installed, and tried, with success my NPM package on a Linux OS (**Louise and JP**), and on a Windows OS (**Othman**) but, on a **MAC OS** (**Guy's laptop**) it failed to install because he "didn't have the permission to install it". I've yet to adress this issue. It doesn't have anything to do with my NPM package though, it must've been something on **Guy**'s Apple laptop.
+
 # WHY DIDN'T YOU USE THE 'PWNED API' LIKE THE INSTRUCTIONS SAID ?
 We can't use that API from within the BeCode network. I used the OpenWeatherMaps API instead.
 
