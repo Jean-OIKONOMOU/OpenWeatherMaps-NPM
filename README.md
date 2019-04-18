@@ -25,4 +25,4 @@ I used a couple of interesting NPM modules :
 I was just fooling around with the code. I wanted to see how you could protect the access to the package with a username / password. Just write **poppy** for the username, and **poppy** for the password.
 
 # CREDITS
-Me, myself, and I. [and this tutorial](https://blog.developer.atlassian.com/scripting-with-node/)
+Me, myself, and I. [And this tutorial](https://blog.developer.atlassian.com/scripting-with-node/)
