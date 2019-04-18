@@ -1,0 +1,35 @@
+{
+  "name": "jadm",
+  "version": "1.0.2",
+  "description": "buck api",
+  "main": "index.js",
+  "bin": {
+    "jadm": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jean-OIKONOMOU/buck.git"
+  },
+  "keywords": [
+    "buck"
+  ],
+  "author": "jadm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jean-OIKONOMOU/buck/issues"
+  },
+  "homepage": "https://github.com/Jean-OIKONOMOU/buck#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "chalk": "^2.4.2",
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
+    "commander": "^2.20.0",
+    "figlet": "^1.2.1",
+    "ora": "^3.4.0",
+    "progress": "^2.0.3"
+  }
+}
