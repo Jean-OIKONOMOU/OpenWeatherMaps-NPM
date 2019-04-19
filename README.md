@@ -2,6 +2,18 @@
 ```console
 npm install -g jadm
 ```
+OR (for Linux)
+```console
+sudo npm install -g jadm
+```
+OR (for Mac OS)
+```console
+sudo -i npm install -g jadm
+```
+If you're still getting the **"EACCESS ERROR 13 : NO WRITE PERMISSION"** error you can do the following:
+- Resolve the permissions issue in your home directory by reclaiming ownership of the .npm directory by executing the following command: </br></br>`sudo chown -R $(whoami) ~/.npm`
+
+- If you are on OSX or Linux, you can create a user dedicated directory for your global package and setup npm and node to know how to find globally installed packages. </br></br>Check out [this great article](https://github.com/sindresorhus/guides/blob/master/npm-global-without-sudo.md) for step by step instructions on installing npm modules globally without sudo.
 
 # HOW DO I CALL THIS AMAZING MODULE ?
 In the console type **jadm** followed by your city.
